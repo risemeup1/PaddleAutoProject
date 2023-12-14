@@ -243,9 +243,6 @@ configs = [
 
         # 该issue相关PR的前缀，用来标识PR是否属于该issue
         'pr_prefix' : "PPSCI Doc No.",
-
-        # PR、状态等信息所在的列
-        'pr_col': 3,
     },{
         # 任务名称，起标识作用
         'issue_name': "[cmake治理]删除paddle_test多余无用依赖",
